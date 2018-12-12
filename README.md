@@ -10,5 +10,6 @@ This is a game created in HTML canvas and JavaScript.
 This game is an extension and improvement of the old snake game.
 
 <h5> Note: </h5>
-In the above 2 html flies, Tron3 is a 3 players game where 3 users can play in one system.
-In the Tron3_AI only one user can play and the other 2 paths act as a bot with some Artificial intelligence.
+In the above 2 html flies, 
+<p>> Tron3.html is a 3 players game where 3 users can play in one system.</p>
+<p>> Tron3_AI.html only one user can play and the other 2 paths act as a bot with some Artificial intelligence.</p>
